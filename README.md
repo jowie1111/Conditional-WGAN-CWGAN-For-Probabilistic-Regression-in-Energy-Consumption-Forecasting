@@ -14,7 +14,9 @@ This repository contains various implementations of **Conditional Wasserstein Ge
 * **[Probability Regression Models Notebook](https://github.com/jowie1111/Conditional-WGAN-CWGAN-For-Probabilistic-Regression-in-Energy-Consumption-Forecasting/blob/main/Pobability%20Regression%20Models.ipynb)**: A Jupyter notebook that explores probabilistic regression models applied to energy consumption data, evaluating multiple regression approaches for better forecasting accuracy.
 
 * **[Random Splits CWGAN and Probability Regression Model Notebook](https://github.com/jowie1111/Conditional-WGAN-CWGAN-For-Probabilistic-Regression-in-Energy-Consumption-Forecasting/blob/main/Random%20spilts%20CWGAN%20and%20%20Probability%20Regression%20Model.ipynb)**: A Jupyter notebook demonstrating the use of random splits for training CWGAN models in combination with probability regression models for improved accuracy in energy consumption forecasting.
+Dataset: Renewable Power Generation and Weather Conditions
 
+* **The dataset used in this research is available on Kaggle (https://www.kaggle.com/datasets/pythonafroz/renewable-power-generation-and-weather-conditions), comprises historical data on renewable power generation and corresponding weather conditions.** It is particularly useful for modeling and forecasting energy generation from renewable sources, such as solar and wind power, by leveraging weather-related features.
 ## Requirements
 
 To run the notebooks and Python modules, the following packages are required:
